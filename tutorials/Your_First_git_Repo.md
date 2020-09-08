@@ -143,15 +143,5 @@ Anybody can clone any repo that is publicly available.  If a repo is private, yo
 ## The End
 
 
-| [Back: First-Time-Setup Instructions](/tutorials/First-Time-Setup_Instructions.md) |
-| :-: |
-
-<p align="justify">
-| [Table Of Contents](tutorials/TABLE_OF_CONTENTS.md) |
-| :-: |
-</p>
-
-<p align="right">
-| [Next: Interacting With `git`, And How To Contribute Your Work To The Repo](/tutorials/git_Interactions.md) |
-| :-: |
-</p>
+| [Back: First-Time-Setup Instructions](/tutorials/First-Time-Setup_Instructions.md) | [Table Of Contents](tutorials/TABLE_OF_CONTENTS.md) | [Next: Interacting With `git`, And How To Contribute Your Work To The Repo](/tutorials/git_Interactions.md) |
+| :-: | :-: | :-: |
