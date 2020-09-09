@@ -118,7 +118,7 @@ Normally, people type `git clone ` instead of `git lfs clone `.  But we are doin
 CONGRATULATIONS!  You have just cloned your first repo!  Now you have a copy of the project in your local machine.  
 
 #### CHECK THAT EVERYTHING IS THERE AND EVERYTHING IS OK:
-To check that everything is there, go into the directory that you just cloned.  The directory’s name is the same as the repo’s name.  
+To check that everything is there, go into the directory that you just cloned.  The directory's name is the same as the repo's name.  
 
 You do this by typing in the command line:
 ```bash
@@ -127,16 +127,16 @@ cd [directory name]
 Remember to put a space between `cd` and the directory name.  Then hit `Enter` on your keyboard.
 
 It should appear this way:
-[screenshot]
+![Going To The Directory](/images/use_cd_to_change_directory.PNG?raw=true "using `cd` to change directory")  
 
 You are now inside the directory of the repo that you just cloned! ^-^
 
-Take note that this has additional words, like "Master" (in cyan/light blue) and things like that.
-[screenshot]
+Take note that this has additional words, like "Master" (in cyan/light blue) and things like that.  The cyan/light blue words say what branch this git repo is currently on.  If a directory doesn't have those cyan/light blue words between parentheses, it means that the directory is not being tracked by git.  
+![Going To The Directory](/images/difference_between_git_directory_and_no-git.PNG?raw=true "the cyan/light blue words say what branch this git repo is currently on.")  
 
 If you see these, then it means that the repo has been downloaded and it has git initialized.  You can also check by using your OS's GUI (the usual way that you look for directories and files).
 
-A new directory appears called `.git`, which has all the data related to version control with `git`.  
+A directory that's initialized with git will have a new directory appears called `.git`, which has all the data related to version control with `git`.  
 
 The next thing to do is type:
 ```bash
