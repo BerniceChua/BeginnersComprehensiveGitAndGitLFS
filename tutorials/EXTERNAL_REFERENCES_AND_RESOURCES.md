@@ -150,6 +150,9 @@ https://git-scm.com/ is the main website for git, so use this for looking up any
   * https://opensource.com/article/19/5/practical-learning-exercise-git
   * text guidance
 
+- Git Guides - "Hello World"
+  * https://guides.github.com/activities/hello-world/
+
 ### Tutorials To Download & Install To Your Local Machine
 - git-it  
   * https://github.com/jlord/git-it
@@ -268,10 +271,14 @@ https://git-scm.com/ is the main website for git, so use this for looking up any
 
 - https://www.freecodecamp.org/news/search/?query=git
 
+|[Back To Table Of Contents](#table-of-contents) |
+| :-: |
 
-### Wiki With Everything git-related
+
+## Wiki With Everything git-related
 - https://git.wiki.kernel.org/
 - https://docs.github.com/
+- https://guides.github.com/
 
 |[Back To Table Of Contents](#table-of-contents) |
 | :-: |
