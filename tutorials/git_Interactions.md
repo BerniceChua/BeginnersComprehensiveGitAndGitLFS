@@ -215,7 +215,7 @@ As a precaution, it's important to get changes from the remote repo first, befor
 git pull origin master
 ```
 Then hit the `Enter` key on your keyboard.  
-[screenshot]
+![`git add .` example](/images/git_pull_and_git_push.PNG?raw=true "`git add .` example")  
 
 Explanation:  
 * `git pull` is the command that pulls changes from the remote repo.  
@@ -227,7 +227,9 @@ To check what is set as the remote repo, type in the command line:
 ```bash
 git remote -v
 ```
-Then hit `Enter` on your keyboard.
+Then hit `Enter` on your keyboard.  
+![`git add .` example](/images/git_remote.PNG?raw=true "`git add .` example")  
+
 
 #### Step 5.1.1 - If everything goes well:
 If there is nothing to update, it will say `Already up to date.`, and it will look like this:  
