@@ -1,3 +1,6 @@
+| [Back: Introduction](/tutorials/INTRODUCTION.md) | [Main Table Of Contents](tutorials/TABLE_OF_CONTENTS.md) | [Next: Your First `git` Repo](/tutorials/Your_First_git_Repo.md) |
+| :-: | :-: | :-: |
+
 # First-Time-Setup Instructions
 This the 1st-time setup for beginners.  A lot of these things can be tedious, but once you are done, you don’t need to deal with them again for the most part.  
 
@@ -18,7 +21,7 @@ I will indicate if something is a 1-time action, or an action that needs to be d
   * [Step 1 - Create an account in the remote repo](#step-1---create-an-account-in-the-remote-repo)
   * [Step 2 - Downloading & Installing](#step-2---downloading---installing)
   * [Step 3 - Configuration](#step-3---configuration)
-    + [Step 3.1 - Configuration - Identity:](#step-31---configuration---identity)
+    + [Step 3.1 - Configuration - Identity](#step-31---configuration---identity)
     + [Step 3.2 - Configuration - Text Editor](#step-32---configuration---text-editor)
   * [Step 4 - Install `git lfs`](#step-4---install--git-lfs)
     + [TO KNOW MORE](#to-know-more)
@@ -44,6 +47,9 @@ But if you want to use something that has code completion and syntax highlightin
 - Visual Studio Community = https://visualstudio.microsoft.com/vs/community/
   * For Linux & Mac users who can’t use Visual Studio Community, here is Visual Studio Code = https://code.visualstudio.com/
 
+|[Back To Table Of Contents](#table-of-contents) |
+| :-: |
+
 
 ## Step 1 - Create an account in the remote repo:
 (1-time action)  
@@ -52,6 +58,9 @@ https://gitlab.com/
 
 NOTE:
 If you already have a GitHub account, you can use it to OAUTH an account for GitLab.
+
+|[Back To Table Of Contents](#table-of-contents) |
+| :-: |
 
 
 ## Step 2 - Downloading & Installing:
@@ -64,6 +73,8 @@ This is the client for accessing and using `git`, and for communicating with the
 
 In https://git-scm.com/book/en/v2/Getting-Started-Installing-Git, go to the section of your operating system (Linux or Windows or Mac).  And follow the instructions there.
 
+|[Back To Table Of Contents](#table-of-contents) |
+| :-: |
 
 
 ## Step 3 - Configuration:
@@ -72,9 +83,11 @@ When installing `git` with `git bash`, follow the instructions.  The default opt
 
 https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup has details about what needs to be done.
 
+
 ### Step 3.1 - Configuration - Identity:
 (Once per local machine.)  
 `git` will ask for your identity, which is your name and your email address.  This should match the name and email address that you’ve provided to sign up for the remote repo, so that you can link this account later.  
+
 
 ### Step 3.2 - Configuration - Text Editor:
 (Once per local machine.)  
@@ -87,6 +100,9 @@ This is not set in stone, and you have the option to change the text editor late
 
 In the future, if you want to learn how to use vim, here are some resources:
 https://www.freecodecamp.org/news/vim-isnt-that-scary-here-are-5-free-resources-you-can-use-to-learn-it-ab78f5726f8d/
+
+|[Back To Table Of Contents](#table-of-contents) |
+| :-: |
 
 
 ## Step 4 - Install `git lfs`:
@@ -103,8 +119,13 @@ https://thoughtbot.com/blog/how-to-git-with-unity
 ### FUN FACT:
 The capitalization of “B” in “MB” or “KB” or “GB” or “TB” for file-sizes is important.  If the “B” is capitalized, it means “Bytes”; when the “b” is small, it means “bits”.  Bytes are bigger than bits, because 1 Byte = 8 bits.  (This is where the phrase 8-bit, etc. comes from!)  So when something is abbreviated as Mb & Kb, that’s smaller because it means Megabit & Kilobit, respectively.
 
+
+|[Back To Table Of Contents](#table-of-contents) |
+| :-: |
+
+
 ## The End
 
 
-| [Back: Introduction](/tutorials/INTRODUCTION.md) | [Table Of Contents](tutorials/TABLE_OF_CONTENTS.md) | [Next: Your First `git` Repo](/tutorials/Your_First_git_Repo.md) |
+| [Back: Introduction](/tutorials/INTRODUCTION.md) | [Main Table Of Contents](tutorials/TABLE_OF_CONTENTS.md) | [Next: Your First `git` Repo](/tutorials/Your_First_git_Repo.md) |
 | :-: | :-: | :-: |
