@@ -1,4 +1,4 @@
-| [Back: Introduction](/tutorials/INTRODUCTION.md) | [Main Table Of Contents](tutorials/TABLE_OF_CONTENTS.md) | [Next: Your First `git` Repo](/tutorials/Your_First_git_Repo.md) |
+| [Back: Introduction](/tutorials/INTRODUCTION.md) | [Main Table Of Contents](/tutorials/TABLE_OF_CONTENTS.md) | [Next: Your First `git` Repo](/tutorials/Your_First_git_Repo.md) |
 | :-: | :-: | :-: |
 
 # First-Time-Setup Instructions
@@ -19,11 +19,11 @@ I will indicate if something is a 1-time action, or an action that needs to be d
     + [Skip this step if](#skip-this-step-if)
     + [What is this for?](#what-is-this-for)
   * [Step 1 - Create an account in the remote repo](#step-1---create-an-account-in-the-remote-repo)
-  * [Step 2 - Downloading & Installing](#step-2---downloading---installing)
+  * [Step 2 - Downloading & Installing](#step-2---downloading--installing)
   * [Step 3 - Configuration](#step-3---configuration)
     + [Step 3.1 - Configuration - Identity](#step-31---configuration---identity)
     + [Step 3.2 - Configuration - Text Editor](#step-32---configuration---text-editor)
-  * [Step 4 - Install `git lfs`](#step-4---install--git-lfs)
+  * [Step 4 - Install `git lfs`](#step-4---install-git-lfs)
     + [TO KNOW MORE](#to-know-more)
     + [FUN FACT](#fun-fact)
   * [The End](#the-end)
@@ -127,5 +127,5 @@ The capitalization of “B” in “MB” or “KB” or “GB” or “TB” for file-sizes is impo
 ## The End
 
 
-| [Back: Introduction](/tutorials/INTRODUCTION.md) | [Main Table Of Contents](tutorials/TABLE_OF_CONTENTS.md) | [Next: Your First `git` Repo](/tutorials/Your_First_git_Repo.md) |
+| [Back: Introduction](/tutorials/INTRODUCTION.md) | [Main Table Of Contents](/tutorials/TABLE_OF_CONTENTS.md) | [Next: Your First `git` Repo](/tutorials/Your_First_git_Repo.md) |
 | :-: | :-: | :-: |
