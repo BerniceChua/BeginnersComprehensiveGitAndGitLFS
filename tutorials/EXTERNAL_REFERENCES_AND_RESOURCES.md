@@ -1,14 +1,16 @@
-# EXTERNAL REFERENCES & RESOURCES:
-A lot of what I wrote in this guide are from my own experience using git version control.  But in the beginning, I also learned these from someone else or somewhere else (other people’s blog posts, youtube tutorials, online courses, and of course from other people in person).  These are the sources.  Aside from that, I also use them to fact check myself.
+| [Back: Glossary](/tutorials/GLOSSARY.md) | [Main Table Of Contents](tutorials/TABLE_OF_CONTENTS.md) |
+| :-: | :-: |
 
-For historical purposes, here is the old version of this tutorial:
+# EXTERNAL REFERENCES & RESOURCES:
+A lot of what I wrote in this guide are from my own experience using git version control.  But in the beginning, I also learned these from someone else or somewhere else (other people's blog posts, youtube tutorials, online courses, and of course from other people in person).  These are the sources.  Aside from that, I also use them to fact check myself.
+
+For historical purposes, here is the old version of this tutorial:  
 http://bernicechua.github.io/blog/git
 
-# Table Of Contents:
-- [EXTERNAL REFERENCES & RESOURCES:](#external-references---resources-)
-- [Table Of Contents:](#table-of-contents-)
-  * [First Time Setup Tutorials:](#first-time-setup-tutorials-)
-    + [Tutorials with no programming background required:](#tutorials-with-no-programming-background-required-)
+## Table Of Contents:
+- [EXTERNAL REFERENCES & RESOURCES:](#external-references---resources)
+  * [First Time Setup Tutorials:](#first-time-setup-tutorials)
+    + [Tutorials with no programming background required:](#tutorials-with-no-programming-background-required)
   * [Git-scm.com - the source!!](#git-scmcom---the-source--)
   * [`git` & GitLab](#-git----gitlab)
   * [Youtube Tutorials](#youtube-tutorials)
@@ -19,7 +21,7 @@ http://bernicechua.github.io/blog/git
     + [Tutorials To Download & Install To Your Local Machine](#tutorials-to-download---install-to-your-local-machine)
   * [`git` Cheat Sheets](#-git--cheat-sheets)
   * [Using `git` Version Control With Unity](#using--git--version-control-with-unity)
-  * [Using `git` with `git lfs`](#using--git--with--git-lfs-)
+  * [Using `git` with `git lfs`](#using--git--with--git-lfs)
   * [How to git & git-lfs for Unity](#how-to-git---git-lfs-for-unity)
   * [Unity-Specific `git` Youtube Tutorials](#unity-specific--git--youtube-tutorials)
   * [Explanations And More Examples Of Commit Messages](#explanations-and-more-examples-of-commit-messages)
@@ -49,6 +51,10 @@ http://bernicechua.github.io/blog/git
 - “Git & Github/Gitlab for poets”  
   * https://www.youtube.com/watch?v=BCQHnlnPusY
 
+|[Back To Table Of Contents](#table-of-contents) |
+| :-: |
+
+
 ## Git-scm.com - the source!!  
 https://git-scm.com/ is the main website for git, so use this for looking up any documentation  
 - Download  
@@ -68,6 +74,9 @@ https://git-scm.com/ is the main website for git, so use this for looking up any
 - First-Time Setup Instructions
   * https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup
 
+|[Back To Table Of Contents](#table-of-contents) |
+| :-: |
+
 
 ## `git` & GitLab
 - GitLab Training Tracks
@@ -79,6 +88,9 @@ https://git-scm.com/ is the main website for git, so use this for looking up any
 
 - “A tutorial for learning how to use git & GitLab”
   * https://gist.github.com/m-kyle/fb0f3e9edc369adfcac7
+
+|[Back To Table Of Contents](#table-of-contents) |
+| :-: |
 
 
 ## Youtube Tutorials
@@ -99,6 +111,9 @@ https://git-scm.com/ is the main website for git, so use this for looking up any
 - “Learn `git` in 20 Minutes”
   * https://www.youtube.com/watch?v=Y9XZQO1n_7c
   * The first comment has all the time stamps.
+
+|[Back To Table Of Contents](#table-of-contents) |
+| :-: |
 
 
 ## Practicing git
@@ -135,6 +150,9 @@ https://git-scm.com/ is the main website for git, so use this for looking up any
   * https://opensource.com/article/19/5/practical-learning-exercise-git
   * text guidance
 
+- Git Guides - "Hello World"
+  * https://guides.github.com/activities/hello-world/
+
 ### Tutorials To Download & Install To Your Local Machine
 - git-it  
   * https://github.com/jlord/git-it
@@ -155,6 +173,10 @@ https://git-scm.com/ is the main website for git, so use this for looking up any
   * https://github.com/git-game/git-game
   * Game that teaches git, made with Ruby (Prerequisites: Ruby)
 
+|[Back To Table Of Contents](#table-of-contents) |
+| :-: |
+
+
 ## `git` Cheat Sheets
 - git Cheat Sheets
   * https://github.github.com/training-kit/
@@ -162,6 +184,9 @@ https://git-scm.com/ is the main website for git, so use this for looking up any
 
 - "How To Use `git`: A Reference Guide"
   * https://www.digitalocean.com/community/cheatsheets/how-to-use-git-a-reference-guide
+
+|[Back To Table Of Contents](#table-of-contents) |
+| :-: |
 
 
 ## Using `git` Version Control With Unity
@@ -176,6 +201,9 @@ https://git-scm.com/ is the main website for git, so use this for looking up any
 - “Using `git` for Unity Projects”
   * https://hextantstudios.com/unity-using-git/
 
+|[Back To Table Of Contents](#table-of-contents) |
+| :-: |
+
 
 ## Using `git` with `git lfs`
 - Old version of my tutorial
@@ -187,12 +215,19 @@ https://git-scm.com/ is the main website for git, so use this for looking up any
 - "Handling Large Files with LFS"
   * https://www.git-tower.com/learn/git/ebook/en/desktop-gui/advanced-topics/git-lfs?utm_source=gitlab-blog&utm_campaign=GitLab%20LFS&utm_medium=guest-post
 
+|[Back To Table Of Contents](#table-of-contents) |
+| :-: |
+
+
 ## How to git & git-lfs for Unity
 - “How To `git` With Unity”
   * https://thoughtbot.com/blog/how-to-git-with-unity
 
 - Explanation Of `git lfs clone`
   * https://blog.developer.atlassian.com/git-lfs-12-clone-faster/
+
+|[Back To Table Of Contents](#table-of-contents) |
+| :-: |
 
 
 ## Unity-Specific `git` Youtube Tutorials
@@ -202,6 +237,9 @@ https://git-scm.com/ is the main website for git, so use this for looking up any
 - “How To Use GitHub With Unity”
   * https://www.youtube.com/watch?v=qpXxcvS-g3g
 
+|[Back To Table Of Contents](#table-of-contents) |
+| :-: |
+
 
 ## Explanations And More Examples Of Commit Messages  
 - “How To Write Good Commit Messages: A Practical Guide”
@@ -210,10 +248,17 @@ https://git-scm.com/ is the main website for git, so use this for looking up any
 - “Commit Message Guidelines”
   * https://gist.github.com/robertpainsi/b632364184e70900af4ab688decf6f53
 
+|[Back To Table Of Contents](#table-of-contents) |
+| :-: |
+
 
 ## How to change the default text editor used by `git`:
 - https://stackoverflow.com/a/51380156
 - https://docs.github.com/en/github/using-git/associating-text-editors-with-git
+
+|[Back To Table Of Contents](#table-of-contents) |
+| :-: |
+
 
 ## Websites With Lists Of `git` Resources
 - https://try.github.io/
@@ -226,14 +271,26 @@ https://git-scm.com/ is the main website for git, so use this for looking up any
 
 - https://www.freecodecamp.org/news/search/?query=git
 
+|[Back To Table Of Contents](#table-of-contents) |
+| :-: |
 
-### Wiki With Everything git-related
+
+## Wiki With Everything git-related
 - https://git.wiki.kernel.org/
 - https://docs.github.com/
+- https://guides.github.com/
+
+|[Back To Table Of Contents](#table-of-contents) |
+| :-: |
 
 
 ## Licensing A Repository
 - https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/licensing-a-repository
+- https://gist.github.com/lukas-h/2a5d00690736b4c3a7ba
+- https://shields.io/category/license
+
+|[Back To Table Of Contents](#table-of-contents) |
+| :-: |
 
 
 ## `vim` resources:
@@ -263,6 +320,9 @@ https://git-scm.com/ is the main website for git, so use this for looking up any
   * http://www.viemu.com/a_vi_vim_graphical_cheat_sheet_tutorial.html
   * https://www.slideshare.net/alfrescoqa/vivimcheatsheetpdf
 
+|[Back To Table Of Contents](#table-of-contents) |
+| :-: |
+
 
 ## How To Use Markdown
 - "Mastering Markdown"  
@@ -283,6 +343,9 @@ https://git-scm.com/ is the main website for git, so use this for looking up any
   * https://multimarkdown.com/ (for Mac only)
   * https://python-markdown.github.io/extensions/toc/ Python Markdown TOC Extension
 
+|[Back To Table Of Contents](#table-of-contents) |
+| :-: |
+
 
 ## Markdown Tools
 ### How To Preview Markdown
@@ -297,7 +360,7 @@ https://git-scm.com/ is the main website for git, so use this for looking up any
 
 
 ### Table Of Contents Generator
-- GitHub Wiki TOC generator”
+- "GitHub Wiki TOC generator"
   * https://ecotrust-canada.github.io/markdown-toc/  
 
 - Markdown-TOC
@@ -305,10 +368,14 @@ https://git-scm.com/ is the main website for git, so use this for looking up any
   * (old version: https://github.com/jonschlinkert/marked-toc)
   * example of table of contents made with Markdown-TOC: https://gist.github.com/jonschlinkert/ac5d8122bfaaa394f896
 
+|[Back To Table Of Contents](#table-of-contents) |
+| :-: |
 
+
+___
 
 | [Back: Glossary](/tutorials/GLOSSARY.md) |
 | :-: |
 
-| [Table Of Contents](tutorials/TABLE_OF_CONTENTS.md) |
+| [Main Table Of Contents](tutorials/TABLE_OF_CONTENTS.md) |
 | :-: |
