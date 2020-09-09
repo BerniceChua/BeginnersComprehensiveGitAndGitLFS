@@ -310,7 +310,5 @@ https://git-scm.com/ is the main website for git, so use this for looking up any
 | [Back: Glossary](/tutorials/GLOSSARY.md) |
 | :-: |
 
-<p align="justify">
 | [Table Of Contents](tutorials/TABLE_OF_CONTENTS.md) |
 | :-: |
-</p>

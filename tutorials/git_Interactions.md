@@ -277,16 +277,5 @@ If you want to practice more by yourself, feel free to clone this repo and mess 
 ## The End
 
 
-| [Back: Your First `git` Repo](/tutorials/Your_First_git_Repo.md) |
-| :-: |
-
-<p align="justify">
-| [Table Of Contents](tutorials/TABLE_OF_CONTENTS.md) |
-| :-: |
-</p>
-
-
-<p align="right">
-| [Next: Glossary](/tutorials/GLOSSARY.md) |
-| :-: |
-</p>
+| [Back: Your First `git` Repo](/tutorials/Your_First_git_Repo.md) | [Table Of Contents](tutorials/TABLE_OF_CONTENTS.md) | [Next: Glossary](/tutorials/GLOSSARY.md) |
+| :-: | :-: | :-: |

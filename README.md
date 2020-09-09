@@ -27,12 +27,8 @@ Click [here to get started with your first `git` repo](tutorials/Your_First_git_
 Click [here to get started with your first `git` interactions](tutorials/git_Interactions.md).
 
 Know what you're looking for?  Use these to skip to these sections:  
-<p align="justify">
 | [Table Of Contents](tutorials/TABLE_OF_CONTENTS.md) | [Glossary](tutorials/GLOSSARY.md) | [External References And Resources](tutorials/EXTERNAL_REFERENCES_AND_RESOURCES.md)|
 | :-: | :-: | :-: |
-</p>
 
-<p align="right">
 | [Next: Table Of Contents](/tutorials/TABLE_OF_CONTENTS.md) |
 | :-: |
-</p>

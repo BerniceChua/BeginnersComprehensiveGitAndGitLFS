@@ -49,15 +49,6 @@ These are short definitions of words that may not be familiar to beginners.  It’
 
 * version control system = a system that implements the concept of version control.  Shortened as VCS or vcs.
 
-| [Back: Interacting With `git`, And How To Contribute Your Work To The Repo](/tutorials/git_Interactions.md) |
-| :-: |
 
-<p align="justify">
-| [Table Of Contents](tutorials/TABLE_OF_CONTENTS.md) |
-| :-: |
-</p>
-
-<p align="right">
-| [Next: External References And Resources](/tutorials/EXTERNAL_REFERENCES_AND_RESOURCES.md) |
-| :-: |
-</p>
+| [Back: Interacting With `git`, And How To Contribute Your Work To The Repo](/tutorials/git_Interactions.md) | [Table Of Contents](tutorials/TABLE_OF_CONTENTS.md) | [Next: External References And Resources](/tutorials/EXTERNAL_REFERENCES_AND_RESOURCES.md) |
+| :-: | :-: | :-: |

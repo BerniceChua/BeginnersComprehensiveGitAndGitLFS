@@ -106,15 +106,5 @@ The capitalization of “B” in “MB” or “KB” or “GB” or “TB” for file-sizes is impo
 ## The End
 
 
-| [Back: Introduction](/tutorials/INTRODUCTION.md) |
-| :-: |
-
-<p align="justify">
-| [Table Of Contents](tutorials/TABLE_OF_CONTENTS.md) |
-| :-: |
-</p>
-
-<p align="right">
-| [Next: Your First `git` Repo](/tutorials/Your_First_git_Repo.md) |
-| :-: |
-</p>
+| [Back: Introduction](/tutorials/INTRODUCTION.md) | [Table Of Contents](tutorials/TABLE_OF_CONTENTS.md) | [Next: Your First `git` Repo](/tutorials/Your_First_git_Repo.md) |
+| :-: | :-: | :-: |

@@ -4,8 +4,8 @@
 - TABLE OF CONTENTS
 - [Introduction](/tutorials/INTRODUCTION.md)
 - [First-Time-Setup Instructions](/tutorials/First-Time-Setup_Instructions.md)
-  * [Step 0 - Text Editor:](/tutorials/First-Time-Setup_Instructions.md/#step-0---text-editor-)
-    + [Skip this step if](/tutorials/First-Time-Setup_Instructions.md/#skip-this-step-if-)
+  * [Step 0 - Text Editor:](/tutorials/First-Time-Setup_Instructions.md#step-0---text-editor)
+    + [Skip this step if](/tutorials/First-Time-Setup_Instructions.md#skip-this-step-if)
   * [Step 1 - Create an account in the remote repo](/tutorials/First-Time-Setup_Instructions.md/#step-1---create-an-account-in-the-remote-repo-)
   * [Step 2 - Downloading & Installing](/tutorials/First-Time-Setup_Instructions.md/#step-2---downloading---installing-)
   * [Step 3 - Configuration](/tutorials/First-Time-Setup_Instructions.md/#step-3---configuration-)
@@ -72,10 +72,5 @@ GitLab Version:	9
 
 
 
-| [Back: Main Page](/README.md) |
-| :-: |
-
-<p align="right">
-| [Next: Introduction](/tutorials/INTRODUCTION.md) |
-| :-: |
-</p>
+| [Back: Main Page](/README.md) | [Next: Introduction](/tutorials/INTRODUCTION.md) |
+| :-: | :-: |

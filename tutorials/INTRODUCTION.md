@@ -27,15 +27,5 @@ Part 2 is the remote version.  The remote version is called a “repository”, whic
 I have a dream....  
 Full disclosure, I do not work for `git`, or GitHub, or GitLab.  I am but a humble I.T. (with some art background)-turned videogame-programmer.  But if it were up to me, EVERYONE will learn version control, not just programmers.  The reason for this is simple.  It will be easier for everyone to back up their work, and go back to known-good versions of their work in case something got messed up.  Then they would just be mildly annoyed, instead of panicking.  It doesn’t matter if people are accountants, lawyers, paralegals, marketing, community managers, artists, designers, animators, scientists, mathematicians, etc.  I really sincerely think that this will be a helpful tool for anyone, so I have a dream that everyone will make git version control a part of their workflow, and I hope that this guide will be useful for as many people as possible! ^-^
 
-| [Back: Table Of Contents](/tutorials/TABLE_OF_CONTENTS.md) |
-| :-: |
-
-<p align="justify">
-| [Table Of Contents](tutorials/TABLE_OF_CONTENTS.md) |
-| :-: |
-</p>
-
-<p align="right">
-| [Next: First-Time-Setup Instructions](/tutorials/First-Time-Setup_Instructions.md) |
-| :-: |
-</p>
+| [Back: Table Of Contents](/tutorials/TABLE_OF_CONTENTS.md) | [Table Of Contents](tutorials/TABLE_OF_CONTENTS.md) | [Next: First-Time-Setup Instructions](/tutorials/First-Time-Setup_Instructions.md) |
+| :-: | :-: | :-: |
