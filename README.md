@@ -1,6 +1,7 @@
 # How To Version Control With `git` And `git-lfs` For Beginners - A Comprehensive Friendly Guided Walkthrough
 
-[Get Started With First-Time-Setup Instructions](tutorials/First-Time-Setup_Instructions.md)
+| [Get Started With First-Time-Setup Instructions](tutorials/First-Time-Setup_Instructions.md) |
+| :-: |
 
 
 ## ABSTRACT / SUMMARY:
